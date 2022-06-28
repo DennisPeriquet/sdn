@@ -9,13 +9,13 @@ require (
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gorilla/mux v1.8.0
 	github.com/miekg/dns v1.1.35
-	github.com/opencontainers/runc v1.0.2
+	github.com/opencontainers/runc v1.1.1
 	github.com/openshift/api v0.0.0-20211209173311-a19f3b9052a6
 	github.com/openshift/build-machinery-go v0.0.0-20210806203541-4ea9b6da3a37
 	github.com/openshift/client-go v0.0.0-20211209144617-7385dd6338e3
 	github.com/openshift/library-go v0.0.0-20211209153216-ed9bc958bd8a
-	github.com/prometheus/client_golang v1.11.1
-	github.com/spf13/cobra v1.2.1
+	github.com/prometheus/client_golang v1.12.1
+	github.com/spf13/cobra v1.4.0
 	github.com/vishvananda/netlink v1.1.0
 	golang.org/x/sys v0.0.0-20210831042530-f4d43177bf5e
 	k8s.io/api v1.23.4
